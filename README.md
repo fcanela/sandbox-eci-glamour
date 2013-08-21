@@ -1,5 +1,6 @@
-eci-glamour
-===========
+# sandbox-eci-glamour
+
+**Warning**: Sandbox project. It will probably not contain fancy commits, TDD/BDD, sanitization, etc.
 
 Scrapes model contest votes for later cheating analysis
 
